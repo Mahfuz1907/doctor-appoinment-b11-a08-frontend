@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@plugin "daisyui";
+@import "@heroui/styles";
+@theme {
+  --font-pjs: var(--font-pjs), sans-serif;
+}
